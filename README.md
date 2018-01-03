@@ -1,2 +1,2 @@
 # my-portfolio
-This is ,y professional portfolio
+This is my professional portfolio
